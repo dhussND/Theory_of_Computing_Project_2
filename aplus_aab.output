@@ -1,0 +1,5 @@
+Machine: a+_ntm
+Initial string: aab
+No valid paths found. Halting.
+Execution stopped after 3 transitions.
+String aab: stopped

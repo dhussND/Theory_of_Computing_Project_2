@@ -1,0 +1,11 @@
+a+_ntm
+q0,q1,qaccept,qreject
+a,_
+a,_
+q0
+qaccept
+qreject
+q0,a,q1,_,R
+q1,a,q1,a,R
+q1,_,qaccept,_,S
+q0,_,qreject,_,S

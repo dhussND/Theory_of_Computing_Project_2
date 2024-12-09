@@ -1,0 +1,7 @@
+Machine: palindrome_ntm
+Initial string: aaaa
+String accepted in 14 transitions.
+_aaa_[q3]_
+___a_[q3]_
+_____[qaccept]_
+String aaaa: accepted

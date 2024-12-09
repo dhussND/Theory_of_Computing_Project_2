@@ -1,0 +1,5 @@
+Machine: palindrome_ntm
+Initial string: _
+String accepted in 2 transitions.
+_[qaccept]_
+String _: accepted

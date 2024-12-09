@@ -1,0 +1,5 @@
+Machine: a+_ntm
+Initial string: aaaaa
+String accepted in 7 transitions.
+_aaaa_[qaccept]_
+String aaaaa: accepted
